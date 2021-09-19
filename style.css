@@ -1,0 +1,113 @@
+﻿* {
+    outline: 1px solid red;
+}
+
+.icon {
+    margin-left: 50px;
+    margin-top: 39px;
+    width: 126px;
+    height: 40px;
+}
+.firstBlock {
+    height: 629px;
+    padding-left: 414px;
+    display: grid;
+}
+.madeBy {
+    position:absolute;
+    left: 233px;
+    top: 217px;
+    font-size: 60px;
+    font-family: Larsseit;
+    font-size: 16px;
+    line-height: 17px;
+    letter-spacing: -0.006em;
+    color: #A259FF; 
+}
+.cloudhary {
+    margin-top: 116px;
+    font-family: Larsseit;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: -0.006em;
+    color: #292929;
+    font-weight: bold;
+}
+.subtitle {
+    display: flex;
+    margin-top: 20px;
+    font-family: Larsseit;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    color: #4F4F4F;
+}
+.lings {
+    margin-top: 67px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.twitter {
+    font-family: Larsseit;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.006em;
+    color: #1ABCFE;
+}
+.dribbble {
+    font-family: Larsseit;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.006em;
+    color: #1ABCFE;
+}
+.kshtij {
+    font-family: Larsseit;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.006em;
+    color: #1ABCFE;
+}
+a {
+    text-decoration: none;
+    color: #1ABCFE;
+}
+.ifYouLike {
+    display: flex;
+    margin-top: 123px;
+    font-family: Larsseit;
+    font-size: 20px;
+    line-height: 21px;
+    letter-spacing: -0.006em;
+    color: #696969;
+}
+.secondBlock {
+   height: 840px;
+   padding-left: 179px;
+   padding-top: 27px;
+   padding-right: 20px;
+}
+.header2 {
+    /*display: flex;*/
+    display: grid;
+    justify-content: space-between;
+    align-content: space-between;
+
+}
+.thrivetalk {
+    font-family: Larsseit;
+    font-size: 24px;
+    line-height: 27px;
+    /* identical to box height */
+    letter-spacing: -0.035em;
+    color: #62D0DF  ;
+}
+.navigation {
+    display: flex;
+    Font-family: Larsseit;
+    Font-style: (mixed);
+    Font-size: 14px;
+    Line-height: 95%;
+    Align: Left;
+}
